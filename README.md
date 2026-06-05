@@ -7,6 +7,8 @@ This project helps users record trades, calculate profit/loss, view analytics on
 
 The original desktop version was converted into a modern browser-based application to make it easier to use, easier to deploy, and more suitable for academic and internship submissions.
 
+Developed and deployed an AI-powered crowd monitoring platform using YOLOv8, FastAPI, and JavaScript. Real-time analytics dashboard and reporting system were successfully deployed on Vercel and Render. Video inference requires higher-memory cloud infrastructure due to model resource requirements.
+
 ## Features
 - JWT-based login system
 - Protected routes
